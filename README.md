@@ -1,4 +1,4 @@
-Its a face detection web app using clarifai API , React, nodejs, express and Postgre SQl.
+Its a face detection web app using clarifai API , React.js, node.js, express.js and Postgre SQl.
 
 ## Available Scripts
 
